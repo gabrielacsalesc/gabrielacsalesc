@@ -1,4 +1,4 @@
-### Olá, eu sou a Gabriela Coutinho
+### Hi, I'm Gabriela Coutinho
 
 - 🔭 I’m currently looking for a opportunity to start my career as a front-end developer
 - 🌱 I’m currently learning React and Javascript
